@@ -1,10 +1,5 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, tudo bem? Este é o meu exercício de HTML5/CSS3 - Página do Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
-
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+Tomei a liberdade de, ao invés de manter a foto do telefone estática, incluir uma animação usando o CSS3 e o Bootstrap (copiei o código de um usuário do Stack Overflow e fiz as readequações necessárias para rodar! 
 
 ## 🚀 Let's code! 🚀
